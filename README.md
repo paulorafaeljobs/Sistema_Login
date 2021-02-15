@@ -1,7 +1,6 @@
-Sistema de Login com Integração com Mysql
+<h2>Sistema de Login com Integração com Banco de Dados Mysql.</h2>
 
-Linguagens Usadas
-
+Linguagens Usadas:
 <ul>
   <li>HTML</li>
   <li>PHP</li>
