@@ -24,7 +24,7 @@ USE login;
 
 Estrutura do Banco de dados:
 
-<blockquote>
+
 
 CREATE TABLE `login`.`usuario` (                 </br>
   `usuario_id` INT NOT NULL AUTO_INCREMENT,      </br>
@@ -32,7 +32,7 @@ CREATE TABLE `login`.`usuario` (                 </br>
   `senha` VARCHAR(32) NOT NULL,                  </br>
   PRIMARY KEY (`usuario_id`));                   </br>
                                                  </br>
-</blockquote>
+
 
 Inserts:
 
