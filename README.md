@@ -1,4 +1,4 @@
-<h2>Sistema de Login com Integração com Banco de Dados Mysql.</h2>
+<h2>Sistema de Login com Integração com Banco de Dados Mysql</h2>
 
 Linguagens Usadas:
 <ul>
