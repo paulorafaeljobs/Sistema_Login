@@ -1,0 +1,27 @@
+CREATE DATABASE login;
+
+
+CREATE TABLE `usuario` (
+  `usuario_id` int NOT NULL,
+  `usuario` varchar(200) NOT NULL,
+  `senha` varchar(32) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+
+
+INSERT INTO `usuario` (`usuario_id`, `usuario`, `senha`) VALUES
+(1, 'paulo', '202cb962ac59075b964b07152d234b70'),
+(4, 'joao', '202cb962ac59075b964b07152d234b70');
+
+
+
+
+ALTER TABLE `usuario`
+  ADD PRIMARY KEY (`usuario_id`);
+
+
+
+ALTER TABLE `usuario`
+  MODIFY `usuario_id` int NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+COMMIT;
