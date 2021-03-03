@@ -7,5 +7,3 @@ Linguagens Utilizadas:
   <li>SQL</li>
 </ul>
 
-
-
